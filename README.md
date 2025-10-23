@@ -18,7 +18,8 @@ Durante el análisis se realizaron tareas de limpieza y transformación:
 · Reemplazo de valores faltantes (NULL) por la moda o mediana.
 · Estandarización de categorías.
 
-Analisis complementario
+# Analisis complementario
+
 Este análisis se desarrolló de manera independiente al flujo principal del proyecto, con el fin de profundizar en la relación entre precios y ventas por tipo de producto.
 - Precio promedio y ventas:
 · Meat y Dairy tienen los precios más altos y mayores ventas promedio, indicando una fuerte rotación incluso con valores elevados.
