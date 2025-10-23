@@ -1,4 +1,4 @@
-FoodYum — Análisis de precios por tipo de producto
+# FoodYum — Análisis de precios por tipo de producto
 
 Descripcion general
 - FoodYum es una cadena de supermercados con sede en Estados Unidos que comercializa una amplia variedad de productos: frutas y verduras, carne, lácteos, productos horneados, snacks y otros alimentos básicos del hogar.
